@@ -2,6 +2,9 @@
 
 body {
     background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     background-size: cover;
 }
 
@@ -40,10 +43,15 @@ p.blog {
 a {
     text-decoration: none;
     color: white;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
 }
 
 a:hover {
-    color: darkgray;
+    color: #B9A3E3;
 }
 
 a.blog {
