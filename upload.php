@@ -1,6 +1,6 @@
 <?php
  
-$secret_key = "generate-key-here";
+$secret_key = "PutKeyHere";
 $sharexdir = "i/"; 
 $domain_url = 'http://itsbrant.com/';
 $lengthofstring = 5;
