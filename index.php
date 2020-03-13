@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>It's Brant! &raquo; Community & Social Media Professional</title>
-<meta name="author" content="Brant">
+<title>It's ScanyWorks</title>
+<meta name="author" content="ScanyWorks">
 <link href="assets/css/global.css" rel="stylesheet" media="all"/>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css"/>
 </head>
 <body>
     <div class="header">
-        <h1 class="title"> Hi! It's Brant</h1>
+        <h1 class="title"> Hi! It's ScanyWorks</h1>
         <p class="description">I'm a Community & Social Media Management Professional within the Twitch Community & a Twitch Support Volunteer.</p> <br/>
         <p class="blog"> My blog is proudly hosted by Medium! Visit it by clicking <a href="http://medium.com/@hiitsbrant" class="blog">here.</a></p>
         <br/><br/><br/>
